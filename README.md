@@ -66,4 +66,8 @@ I’m a Full-Stack Developer and CRM Automation Expert with over **5 years of ex
 
 ---
 
-_Updated: `{{CURRENT_DATE}}`_
+---
+
+> 💡 *“Code with clarity. Automate with purpose. Deliver with impact.”*
+
+---
